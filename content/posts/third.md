@@ -1,6 +1,7 @@
 ---
-title: '事件经过1'
+title: '事件经过'
 date: '2023-12-12'
+featured_image: '/images/2.jpg'
 ---
 
 ## 概括
@@ -25,24 +26,8 @@ date: '2023-12-12'
 
 混知：赤壁之战
 
-<iframe src="https://www.bilibili.com/video/BV15Q4y1m7sj/?spm_id_from=333.337.search-card.all.click" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
+<iframe src="https://www.bilibili.com/video/BV15Q4y1m7sj?t=41.6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
 
-默认情况下，Hugo工具是不支持在markdown中使用html内容的，但是可以通过设置让其支持html，在hugo配置中增加如下内容即可：
-```
-
-[markup]
-defaultMarkdownHandler = "goldmark"
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
-```
-
-对于播放器的样式，支持CSS的样式设置。例如:
-
-```html
-
-<iframe src="https://www.bilibili.com/video/BV15Q4y1m7sj/?spm_id_from=333.337.search-card.all.click" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
-```
 
 嵌入其他类型页面。
 
