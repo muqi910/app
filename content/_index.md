@@ -1,9 +1,9 @@
 ---
-title: "赤壁之战"
+title: "从小站到书屋"
 
-description: "中国历史上著名的以少胜多、以弱胜强的战役之一，是三国时期“三大战役”中最为著名的一场。"
+description: "全民阅读在不同环境下的不同诠释"
 cascade:
-  featured_image: '/images/1.jpg'
+  featured_image: '/images/5.jpg'
 ---
 
-江山如画，一时多少豪杰。
+腹有诗书气自华

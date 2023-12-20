@@ -1,34 +1,39 @@
 ---
-title: '事件经过'
+title: '采访流程'
 date: '2023-12-12'
-featured_image: '/images/2.jpg'
+featured_image: '/images/3.jpg'
 ---
 
-## 概括
+## 城市
   
- 赤壁之战，是指东汉末年孙权、刘备联军于建安十三年（208年）在长江赤壁（今湖北省赤壁市西北）一带大破曹操大军的战役。这是中国历史上著名的以少胜多、以弱胜强的战役之一，是三国时期“三大战役”中最为著名的一场，也是继阖闾破楚之后 的又一次在长江流域进行的大规模江河作战。
+在金城公园的读者小站，我们分别对小站的员工以及运营总监高志先生进行了采访。
 
-曹操率军二十万众顺江而下。孙权命周瑜、程普为左右督，鲁肃为赞军校尉 。周瑜率精军三万沿江上至夏口 ，联合屯驻樊口的刘备军一起溯长江西进，与曹军相遇在赤壁。此时曹军众多士卒已染疾病，初次交战，曹军败退，暂驻军于乌林地带，周瑜等人在南岸，双方隔江对峙。周瑜利用曹操的骄傲轻敌 ，纳部将黄盖之议采用火攻 ，设计诈降 ，命其率小战船十艘，上装柴草，灌以膏油，假称投降，向北岸而进，至离曹营二里之处时，各船一齐点火，然后借助风势，直向曹军冲去，曹军大败，舟船被烧 ，延及岸上曹营而伤亡惨重 ，曹操又下令将剩余的曹军舟船都予以烧毁，然后撤退，又因为士卒饥疫而死者大半。 
+在采访小站员工时，我们多用正面提问的方法进行提问，例如“小站成立时间，读者的年龄段以及如何借阅书籍”等问题,通过这些问题可以让我们可以对小站有一个基本情况的了解，为后续的采访有一个铺垫和补充。
+在采访运营总监高志先生时，我们多用开放性问题以及引导性提问、追问的方式进行提问，例如“最初是如何有建设读者小站想法的？对读者小站下一步的规划是什么？”等问题，根据他所阐述的内容紧紧追踪。
 
-赤壁之战中，孙权、刘备在强敌进逼关头结盟对敌，扬水战之长，巧用火攻，创造了中国军事史上以弱胜强的著名战例 。此战为三国鼎立奠定了基础。
+![markdown](/images/3.jpg)
+
+## 农村
+
+采访农家书屋管理员景正红老师与采访读者小站运营总监高志先生的采访思路并无太大差别。都以开放性问题搭配引导性提问为主。
+
+但相比起读者小站的三年成立时间来说，农家书屋有十五年的发展历程，所以在对景正红老师的采访中，我们的问题更偏向农家书屋所带来的影响与变化以及农家书屋所取得的成就。
+
+![markdown](/images/9.jpg)
 
 ### 超级链接
 
-[趣历史——“赤壁之战”](http://www.qulishi.com/huati/chibizz/)三国时期“三大战役”中最为著名的一场——赤壁之战
+[短学期H5](https://v.xiumi.us/stage/v5/6teWA/465228529)根据主题进行H5制作。
 
-### 图片
-
-![markdown](https://ts1.cn.mm.bing.net/th/id/R-C.355a56d7f4c5ec20b821c14c4f060cd7?rik=HPo2AnL0%2fMYBgA&riu=http%3a%2f%2fimg0.dili360.com%2fga%2fM00%2f00%2fD1%2fwKgBzFQ2e5qAEThPAAFfLyZln9s407.jpg%40!rw9&ehk=5tm44oJjcNQnJeT6YB411gYQTXaUQaNK6ZaAcla5Rm0%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1)
-
-![markdown](/images/1.jpg)
+#### H5作者：雷雅棋
 
 ### 视频
 
-混知：赤壁之战
+H5展示
 
-<iframe src="https://www.bilibili.com/video/BV15Q4y1m7sj?t=41.6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
+<iframe src="https://www.bilibili.com/video/BV1tK41187dN?t=0.3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
 
 
 嵌入其他类型页面。
 
-<iframe id="embed_dom" name="embed_dom" frameborder="0"  src="https://www.processon.com/embed/65813178114730757ac6b18c" style="width:300px"></iframe>
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;margin-left:-244.5px; margin-top:-137.5px;width:489px; height:275px;" src="https://www.processon.com/embed/6582bb8b4fd01a15e40655ef"></iframe>
