@@ -34,6 +34,3 @@ H5展示
 <iframe src="https://www.bilibili.com/video/BV1tK41187dN?t=0.3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
 
 
-嵌入其他类型页面。
-
-<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;margin-left:-244.5px; margin-top:-137.5px;width:489px; height:275px;" src="https://www.processon.com/embed/6582bb8b4fd01a15e40655ef"></iframe>
