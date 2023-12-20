@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on xxxxx</title>
     <link>https://muqi910.github.io/app/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on xxxxx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://muqi910.github.io/app/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hugo ananke 主题的应用及配置</title>
-      <link>https://muqi910.github.io/app/posts/second/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://muqi910.github.io/app/posts/second/</guid>
-      <description>首页背景图 首页背景图通过_index.md设置，该文件应该位于content目录下。例如：
---- title: &amp;#34;测试题图&amp;#34; description: &amp;#34;描述描述&amp;#34; # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory. theme_version: &amp;#39;2.8.2&amp;#39; cascade: featured_image: &amp;#39;/images/2.jpg&amp;#39; --- Welcome to my blog with some of my work in progress. I&amp;#39;ve been working on this book idea. You can read some of the chapters below. 其中featured_image的图片，建议放在static目录下的images目录中，
-单个页面的题图 单个页面的题图，通过该页面的front matter中的featured_image属性设定，例如：
----title: &amp;#34;新闻稿&amp;#34;featured_image: &amp;#34;/images/1.jpg&amp;#34;--- 其中featured_image的图片，与上面首页题图的设置一致，建议放在static目录下的images目录中，</description>
-    </item>
     <item>
       <title>主要人物</title>
       <link>https://muqi910.github.io/app/posts/forth/</link>

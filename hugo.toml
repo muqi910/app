@@ -1,7 +1,7 @@
 baseURL = 'https://muqi910.github.io/app/'
 canonifyurls = true
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'xxxxx'
 theme = 'ananke'
 publishDir = 'docs'
 [markup]

@@ -1,6 +1,7 @@
 ---
 title: '主要人物'
 date: '2023-12-12'
+featured_image: '/images/3.jpg'
 ---
 
 ## 周瑜
