@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>赤壁之战 on My New Hugo Site</title>
-    <link>https://example.org/</link>
+    <link>https://muqi910.github.io/app/</link>
     <description>Recent content in 赤壁之战 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://muqi910.github.io/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo ananke 主题的应用及配置</title>
-      <link>https://example.org/posts/second/</link>
+      <link>https://muqi910.github.io/app/posts/second/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/second/</guid>
+      <guid>https://muqi910.github.io/app/posts/second/</guid>
       <description>首页背景图 首页背景图通过_index.md设置，该文件应该位于content目录下。例如：
 --- title: &amp;#34;测试题图&amp;#34; description: &amp;#34;描述描述&amp;#34; # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory. theme_version: &amp;#39;2.8.2&amp;#39; cascade: featured_image: &amp;#39;/images/2.jpg&amp;#39; --- Welcome to my blog with some of my work in progress. I&amp;#39;ve been working on this book idea. You can read some of the chapters below. 其中featured_image的图片，建议放在static目录下的images目录中，
 单个页面的题图 单个页面的题图，通过该页面的front matter中的featured_image属性设定，例如：
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>事件经过</title>
-      <link>https://example.org/posts/first/</link>
+      <link>https://muqi910.github.io/app/posts/first/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/first/</guid>
+      <guid>https://muqi910.github.io/app/posts/first/</guid>
       <description>概括 赤壁之战，是指东汉末年孙权、刘备联军于建安十三年（208年）在长江赤壁（今湖北省赤壁市西北）一带大破曹操大军的战役。这是中国历史上著名的以少胜多、以弱胜强的战役之一，是三国时期“三大战役”中最为著名的一场，也是继阖闾破楚之后 的又一次在长江流域进行的大规模江河作战。
 曹操率军二十万众顺江而下。孙权命周瑜、程普为左右督，鲁肃为赞军校尉 。周瑜率精军三万沿江上至夏口 ，联合屯驻樊口的刘备军一起溯长江西进，与曹军相遇在赤壁。此时曹军众多士卒已染疾病，初次交战，曹军败退，暂驻军于乌林地带，周瑜等人在南岸，双方隔江对峙。周瑜利用曹操的骄傲轻敌 ，纳部将黄盖之议采用火攻 ，设计诈降 ，命其率小战船十艘，上装柴草，灌以膏油，假称投降，向北岸而进，至离曹营二里之处时，各船一齐点火，然后借助风势，直向曹军冲去，曹军大败，舟船被烧 ，延及岸上曹营而伤亡惨重 ，曹操又下令将剩余的曹军舟船都予以烧毁，然后撤退，又因为士卒饥疫而死者大半。
 赤壁之战中，孙权、刘备在强敌进逼关头结盟对敌，扬水战之长，巧用火攻，创造了中国军事史上以弱胜强的著名战例 。此战为三国鼎立奠定了基础。
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>事件经过1</title>
-      <link>https://example.org/posts/third/</link>
+      <link>https://muqi910.github.io/app/posts/third/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/third/</guid>
+      <guid>https://muqi910.github.io/app/posts/third/</guid>
       <description>概括 赤壁之战，是指东汉末年孙权、刘备联军于建安十三年（208年）在长江赤壁（今湖北省赤壁市西北）一带大破曹操大军的战役。这是中国历史上著名的以少胜多、以弱胜强的战役之一，是三国时期“三大战役”中最为著名的一场，也是继阖闾破楚之后 的又一次在长江流域进行的大规模江河作战。
 曹操率军二十万众顺江而下。孙权命周瑜、程普为左右督，鲁肃为赞军校尉 。周瑜率精军三万沿江上至夏口 ，联合屯驻樊口的刘备军一起溯长江西进，与曹军相遇在赤壁。此时曹军众多士卒已染疾病，初次交战，曹军败退，暂驻军于乌林地带，周瑜等人在南岸，双方隔江对峙。周瑜利用曹操的骄傲轻敌 ，纳部将黄盖之议采用火攻 ，设计诈降 ，命其率小战船十艘，上装柴草，灌以膏油，假称投降，向北岸而进，至离曹营二里之处时，各船一齐点火，然后借助风势，直向曹军冲去，曹军大败，舟船被烧 ，延及岸上曹营而伤亡惨重 ，曹操又下令将剩余的曹军舟船都予以烧毁，然后撤退，又因为士卒饥疫而死者大半。
 赤壁之战中，孙权、刘备在强敌进逼关头结盟对敌，扬水战之长，巧用火攻，创造了中国军事史上以弱胜强的著名战例 。此战为三国鼎立奠定了基础。
