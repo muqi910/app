@@ -2,7 +2,7 @@
 title: '她，撑起全村阅读的希望'
 date: '2023-12-12'
 author: '杨帆 谭玉琪'
-featured_image: '/images/9.Jpg'
+featured_image: '/images/9.jpg'
 ---
 
 ## 她，撑起全村阅读的希望

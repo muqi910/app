@@ -1,7 +1,7 @@
 ---
 title: '随机采访'
 date: '2023-12-12'
-featured_image: '/images/6.Jpg'
+featured_image: '/images/6.jpg'
 ---
 
 ## 海采
