@@ -32,5 +32,3 @@ featured_image: '/images/3.jpg'
 H5展示
 
 <iframe src="https://www.bilibili.com/video/BV1tK41187dN?t=0.3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
-
-
